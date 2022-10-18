@@ -1,6 +1,6 @@
 # Calculator
 
-Simple functionality calculator
+Simple functionality calulator that do the main operations ( + , - , / , x )
 
 ## App Screenshots
 
